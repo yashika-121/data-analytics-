@@ -1,6 +1,6 @@
 # Visualizing Electronics Sales Trends with Python project 
 
-## 📌 Project Overview :
+## 📌 Project Overview 
 This project focuses on preprocessing and visualizing a 12-month electronics sales dataset using Python. It covers data cleaning, handling missing values, feature engineering, and exploratory visualization to uncover business trends and anomalies.
 
 Dataset: Sales data from sep2023 to sep2024 from an electronics retailer.
