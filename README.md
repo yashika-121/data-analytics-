@@ -1,6 +1,6 @@
 # Visualizing Electronics Sales Trends with Python project 
 
-## 📌 Project Overview ( what is the project is about?)
+Project Overview ( what is the project is about?)
 This project focuses on analyzing and visualizing 12 months of electronics sales data (from September 2023 to September 2024) to uncover trends, peak seasons, and top-performing products. It involves data preprocessing, feature engineering, and exploratory data visualization to support strategic business decisions in marketing and inventory planning.
 
 
